@@ -7,3 +7,5 @@ ram
 case
 mobo
 casefans
+Sata cables
+NVME ssd
