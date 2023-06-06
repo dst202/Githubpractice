@@ -6,3 +6,4 @@ psu
 ram
 case
 mobo
+casefans
